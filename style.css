@@ -180,4 +180,8 @@ address { font-style: normal; }
     margin-top: 8px;
     margin-left: 0;
   }
+
+  body.tema-escuro nav a {
+    color: white;
+}
 }
